@@ -9,4 +9,5 @@ vim.keymap.set('n', '<leader>fh', builtin.help_tags, {})
 vim.opt.mouse = ""
 vim.opt.number = true
 vim.opt.relativenumber = true
+vim.cmd 'colorscheme catppuccin'
 
